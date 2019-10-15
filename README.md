@@ -1,4 +1,4 @@
-# aplicar_DV
+# Inserir dígito verificador - uma aplicação Java
 Uma aplicação simples em Java que insere um digito verificador e valida matrículas baseado em dois arquivos de entrada.
 
 Por Leonardo de Figueiredo Meliande
